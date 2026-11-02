@@ -1,0 +1,148 @@
+[
+  {
+    "cylinders": 200,
+    "head": 53,
+    "requests": [
+      98,
+      183,
+      37,
+      122,
+      14,
+      124,
+      65,
+      67,
+      53,
+      37
+    ],
+    "policy": "fcfs",
+    "direction": "up"
+  },
+  {
+    "cylinders": 200,
+    "head": 53,
+    "requests": [
+      98,
+      183,
+      37,
+      122,
+      14,
+      124,
+      65,
+      67,
+      53,
+      37
+    ],
+    "policy": "fcfs",
+    "direction": "down"
+  },
+  {
+    "cylinders": 200,
+    "head": 53,
+    "requests": [
+      98,
+      183,
+      37,
+      122,
+      14,
+      124,
+      65,
+      67,
+      53,
+      37
+    ],
+    "policy": "sstf",
+    "direction": "up"
+  },
+  {
+    "cylinders": 200,
+    "head": 53,
+    "requests": [
+      98,
+      183,
+      37,
+      122,
+      14,
+      124,
+      65,
+      67,
+      53,
+      37
+    ],
+    "policy": "sstf",
+    "direction": "down"
+  },
+  {
+    "cylinders": 200,
+    "head": 53,
+    "requests": [
+      98,
+      183,
+      37,
+      122,
+      14,
+      124,
+      65,
+      67,
+      53,
+      37
+    ],
+    "policy": "scan",
+    "direction": "up"
+  },
+  {
+    "cylinders": 200,
+    "head": 53,
+    "requests": [
+      98,
+      183,
+      37,
+      122,
+      14,
+      124,
+      65,
+      67,
+      53,
+      37
+    ],
+    "policy": "scan",
+    "direction": "down"
+  },
+  {
+    "cylinders": 10,
+    "head": 0,
+    "requests": [],
+    "policy": "scan",
+    "direction": "down"
+  },
+  {
+    "cylinders": 10,
+    "head": 9,
+    "requests": [
+      0,
+      9,
+      0
+    ],
+    "policy": "scan",
+    "direction": "up"
+  },
+  {
+    "cylinders": 10,
+    "head": 0,
+    "requests": [
+      9,
+      9
+    ],
+    "policy": "scan",
+    "direction": "down"
+  },
+  {
+    "cylinders": 10,
+    "head": 5,
+    "requests": [
+      6,
+      8
+    ],
+    "policy": "scan",
+    "direction": "up"
+  }
+]
